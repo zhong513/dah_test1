@@ -1,0 +1,62 @@
+{
+  "uid" : "50b8523ded57846c",
+  "name" : "test_del[info1]",
+  "fullName" : "case.test_dele#test_del",
+  "historyId" : "2deb10bcdace0845f7c58578dec73bd1",
+  "time" : {
+    "start" : 1616467468114,
+    "stop" : 1616467469360,
+    "duration" : 1246
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0 == 1\n +  where 0 = <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>>()\n +    where <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>> = <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>.asse",
+  "statusTrace" : "info = [2]\n\n    @pytest.mark.parametrize('info',l)\n    \n    def test_del(info):\n        d=delete_meal('ff')\n        d.dele()\n>       assert d.asse()==1\nE       assert 0 == 1\nE        +  where 0 = <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>>()\nE        +    where <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>> = <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>.asse\n\ncase\\test_dele.py:17: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_dele"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-U1PCAPFC"
+  }, {
+    "name" : "thread",
+    "value" : "11736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_dele"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "[2]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "50b8523ded57846c.json",
+  "parameterValues" : [ "[2]" ]
+}

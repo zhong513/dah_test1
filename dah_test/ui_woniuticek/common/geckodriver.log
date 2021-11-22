@@ -1,0 +1,230 @@
+1616120334594	geckodriver	INFO	Listening on 127.0.0.1:2839
+1616120337466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofile1k96Wx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120339425	Marionette	INFO	Listening on port 2847
+1616120339519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616120340864	Marionette	INFO	Stopped listening on port 2847
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616120537733	geckodriver	INFO	Listening on 127.0.0.1:2923
+1616120540814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofile5i33pp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120542961	Marionette	INFO	Listening on port 2931
+1616120543482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616120558678	Marionette	INFO	Stopped listening on port 2931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616120738341	geckodriver	INFO	Listening on 127.0.0.1:3025
+1616120741421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilekpT58i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120743355	Marionette	INFO	Listening on port 3033
+1616120743476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.255.184:14200/web/feng/index.html, line 508: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 3264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616120745018	Marionette	INFO	Stopped listening on port 3033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616120775409	geckodriver	INFO	Listening on 127.0.0.1:3079
+1616120778502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileYf3f0q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120780457	Marionette	INFO	Listening on port 3089
+1616120780550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616120793217	Marionette	INFO	Stopped listening on port 3089
+1616120808521	geckodriver	INFO	Listening on 127.0.0.1:3167
+1616120811616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileIsexFS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120813530	Marionette	INFO	Listening on port 3175
+1616120813664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616120827848	Marionette	INFO	Stopped listening on port 3175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616121116460	geckodriver	INFO	Listening on 127.0.0.1:3398
+1616121119501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileBPIwLE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121121370	Marionette	INFO	Listening on port 3406
+1616121121541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616121135807	Marionette	INFO	Stopped listening on port 3406
+1616121277435	geckodriver	INFO	Listening on 127.0.0.1:3522
+1616121280495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileKR2ru1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121282471	Marionette	INFO	Listening on port 3530
+1616121282543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1616121288252	Marionette	INFO	Stopped listening on port 3530
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616121304064	geckodriver	INFO	Listening on 127.0.0.1:3590
+1616121307131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilek0kKXS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121309172	Marionette	INFO	Listening on port 3599
+1616121309280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616121320627	Marionette	INFO	Stopped listening on port 3599
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616121348121	geckodriver	INFO	Listening on 127.0.0.1:3663
+1616121351201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileIRqOL7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121353314	Marionette	INFO	Listening on port 3672
+1616121353350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616121665239	Marionette	INFO	Stopped listening on port 3672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileqfB1OX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121621360	Marionette	INFO	Listening on port 3798
+1616121621478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616121634536	Marionette	INFO	Stopped listening on port 3798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616121797635	geckodriver	INFO	Listening on 127.0.0.1:3925
+1616121800701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilei0GZAE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616121802648	Marionette	INFO	Listening on port 3933
+1616121802734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616121804596	Marionette	INFO	Stopped listening on port 3933
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: https://webapi.amap.com/maps/main?v=1.3&key=3f3868abdb36336114bde5ab6eecdb68&m=http,map,anip,layers,overlay0,brender,mrender,mouse,vectorlayer,overlay,wgl,AMap.Autocomplete,AMap.PlaceSearch,AMap.Geocoder,sync&vrs=1536672475627 line 95 > eval, line 1: NS_ERROR_FAILURE: 
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616122193552	geckodriver	INFO	Listening on 127.0.0.1:4033
+1616122196615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileIEp9wC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122198483	Marionette	INFO	Listening on port 4041
+1616122198664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616122200360	Marionette	INFO	Stopped listening on port 4041
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: https://webapi.amap.com/maps/main?v=1.3&key=3f3868abdb36336114bde5ab6eecdb68&m=http,map,anip,layers,overlay0,brender,mrender,mouse,vectorlayer,overlay,wgl,AMap.Autocomplete,AMap.PlaceSearch,AMap.Geocoder,sync&vrs=1536672475627 line 95 > eval, line 1: NS_ERROR_FAILURE: 
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616122230767	geckodriver	INFO	Listening on 127.0.0.1:4103
+1616122233825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileuFRwia"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122235847	Marionette	INFO	Listening on port 4112
+1616122235880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616122237273	Marionette	INFO	Stopped listening on port 4112
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1616122342605	geckodriver	INFO	Listening on 127.0.0.1:4172
+1616122345689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilehSEaKc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122347552	Marionette	INFO	Listening on port 4181
+1616122347739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616122349115	Marionette	INFO	Stopped listening on port 4181
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616122400513	geckodriver	INFO	Listening on 127.0.0.1:4233
+1616122403578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilevLPEwi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122405576	Marionette	INFO	Listening on port 4241
+1616122405631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616122407763	Marionette	INFO	Stopped listening on port 4241
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1616122458116	geckodriver	INFO	Listening on 127.0.0.1:4302
+1616122461195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofilezge809"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122463077	Marionette	INFO	Listening on port 4310
+1616122463246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616122465460	Marionette	INFO	Stopped listening on port 4310
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616122791772	geckodriver	INFO	Listening on 127.0.0.1:4403
+1616122794838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14420\\AppData\\Local\\Temp\\rust_mozprofileoOjTjS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616122796701	Marionette	INFO	Listening on port 4412
+1616122796893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1616122807681	Marionette	INFO	Stopped listening on port 4412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616123471029	geckodriver	INFO	Listening on 127.0.0.1:10646
+1616123474122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofileyM5rQt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616123479955	Marionette	INFO	Listening on port 10655
+1616123480440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/tao/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616123484009	Marionette	INFO	Stopped listening on port 10655
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

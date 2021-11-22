@@ -1,0 +1,135 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_add[info0]",
+    "uid" : "3f4dc1d03c61e265",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467410073,
+      "stop" : 1616467436441,
+      "duration" : 26368
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'add_case_001', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:王者军王\\n影厅类型:动感地带\\nx座位选择:10\\ny座位选择:10\\n', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_add[info1]",
+    "uid" : "86e5a8429a1e55df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467436451,
+      "stop" : 1616467451338,
+      "duration" : 14887
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'add_case_002', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:太阳光的\\n影厅类型:陶顶顶顶\\nx座位选择:6\\ny座位选择:9\\n', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_add[info2]",
+    "uid" : "899ba7d82854b95d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467451347,
+      "stop" : 1616467465990,
+      "duration" : 14643
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'add_case_003', 'describe': '新增放映厅，y超出', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:太\\n影厅类型:顶\\nx座位选择:20\\ny座位选择:30\\n', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_del[info0]",
+    "uid" : "57ac7c4db069cdc6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1616467465996,
+      "stop" : 1616467468001,
+      "duration" : 2005
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "[1]" ]
+  }, {
+    "name" : "test_del[info1]",
+    "uid" : "50b8523ded57846c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1616467468114,
+      "stop" : 1616467469360,
+      "duration" : 1246
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "[2]" ]
+  }, {
+    "name" : "test_update[info0]",
+    "uid" : "f0ac9045f7d5f337",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467469380,
+      "stop" : 1616467472608,
+      "duration" : 3228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'update_case_001', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=100', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_update[info1]",
+    "uid" : "e984b4c5f071f696",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1616467472618,
+      "stop" : 1616467473563,
+      "duration" : 945
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'update_case_002', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=1', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_update[info2]",
+    "uid" : "ee249f7983454217",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467473665,
+      "stop" : 1616467476876,
+      "duration" : 3211
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'update_case_003', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=1000', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_update[info3]",
+    "uid" : "56b107fa403a0f8f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467476886,
+      "stop" : 1616467480105,
+      "duration" : 3219
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'update_case_004', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=999', 'asse_method': 'text', 'expect': ''}" ]
+  }, {
+    "name" : "test_update[info4]",
+    "uid" : "b86269da1c764491",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616467480117,
+      "stop" : 1616467483329,
+      "duration" : 3212
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'case_name': 'update_case_005', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=0.1', 'asse_method': 'text', 'expect': ''}" ]
+  } ]
+}

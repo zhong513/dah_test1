@@ -1,0 +1,72 @@
+{
+  "uid" : "3f4dc1d03c61e265",
+  "name" : "test_add[info0]",
+  "fullName" : "case.test_add_imax#test_add",
+  "historyId" : "821eaadbf8ea4b38f2f562e350186733",
+  "time" : {
+    "start" : 1616467410073,
+    "stop" : 1616467436441,
+    "duration" : 26368
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fe9515d49f21a6af",
+      "name" : "stdout",
+      "source" : "fe9515d49f21a6af.txt",
+      "type" : "text/plain",
+      "size" : 129
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_imax"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-U1PCAPFC"
+  }, {
+    "name" : "thread",
+    "value" : "11736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_add_imax"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'case_name': 'add_case_001', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:王者军王\\n影厅类型:动感地带\\nx座位选择:10\\ny座位选择:10\\n', 'asse_method': 'text', 'expect': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f4dc1d03c61e265.json",
+  "parameterValues" : [ "{'case_name': 'add_case_001', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:王者军王\\n影厅类型:动感地带\\nx座位选择:10\\ny座位选择:10\\n', 'asse_method': 'text', 'expect': ''}" ]
+}

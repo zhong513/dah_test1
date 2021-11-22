@@ -1,0 +1,16 @@
+[server]
+ip = 192.168.255.184
+[mysql]
+ip = 192.168.255.184
+port = 3306
+username = root
+password = Woniu123
+dbname = movie
+[redis]
+ip = '192.168.255.184'
+port = '6379'
+password = '123456'
+[userurl] #用户端登录地址
+url=http://192.168.255.184:14200/web/feng/index.html
+[wanda] #影视端登录的地址
+url=http://192.168.255.184:14200/web/feng/backstage/login.html

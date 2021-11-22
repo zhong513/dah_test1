@@ -1,0 +1,64 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 0 == 1\n +  where 0 = <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B855D748>>()\n +    where <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B855D748>> = <business.delete_setmeal.delete_meal object at 0x000001D2B855D748>.asse",
+      "children" : [ {
+        "name" : "test_del[info0]",
+        "uid" : "57ac7c4db069cdc6",
+        "parentUid" : "ebe0054eb5964cc7768b1b7b0f47d89a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616467465996,
+          "stop" : 1616467468001,
+          "duration" : 2005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[1]" ]
+      } ],
+      "uid" : "ebe0054eb5964cc7768b1b7b0f47d89a"
+    }, {
+      "name" : "AssertionError: assert 0 == 1\n +  where 0 = <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>>()\n +    where <bound method delete_meal.asse of <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>> = <business.delete_setmeal.delete_meal object at 0x000001D2B857DA08>.asse",
+      "children" : [ {
+        "name" : "test_del[info1]",
+        "uid" : "50b8523ded57846c",
+        "parentUid" : "07aec60f199817f3f71b2c0a86162346",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616467468114,
+          "stop" : 1616467469360,
+          "duration" : 1246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[2]" ]
+      } ],
+      "uid" : "07aec60f199817f3f71b2c0a86162346"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementNotInteractableException: Message: Element <input id=\"new-period\" class=\"menu-input\" type=\"text\"> could not be scrolled into view",
+      "children" : [ {
+        "name" : "test_update[info1]",
+        "uid" : "e984b4c5f071f696",
+        "parentUid" : "9ceea648a2f856e526eec7c8c2d60271",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616467472618,
+          "stop" : 1616467473563,
+          "duration" : 945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_name': 'update_case_002', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=1', 'asse_method': 'text', 'expect': ''}" ]
+      } ],
+      "uid" : "9ceea648a2f856e526eec7c8c2d60271"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

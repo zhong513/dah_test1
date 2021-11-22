@@ -1,0 +1,150 @@
+1616406415369	geckodriver	INFO	Listening on 127.0.0.1:29866
+1616406418392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofile5aXArZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616406424575	Marionette	INFO	Listening on port 29878
+1616406424708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616406436910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616406443115	Marionette	INFO	Stopped listening on port 29878
+1616414391828	geckodriver	INFO	Listening on 127.0.0.1:32816
+1616414394856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofilegr4ETh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616414401626	Marionette	INFO	Listening on port 32825
+1616414401775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616414412978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616414419182	Marionette	INFO	Stopped listening on port 32825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616466159698	geckodriver	INFO	Listening on 127.0.0.1:2390
+1616466162742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofileHwphzG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616466169208	Marionette	INFO	Listening on port 2398
+1616466169649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466180784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466195207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466209925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466410376	geckodriver	INFO	Listening on 127.0.0.1:2703
+1616466413454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofileSE5Hzv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616466420195	Marionette	INFO	Listening on port 2711
+1616466420409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466439547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466453895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616466550443	geckodriver	INFO	Listening on 127.0.0.1:2877
+1616467231201	geckodriver	INFO	Listening on 127.0.0.1:3167
+1616467234241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofilevtOQLx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616467240954	Marionette	INFO	Listening on port 3176
+1616467241186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467252404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467267438	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467283116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467336773	Marionette	INFO	Stopped listening on port 3176
+1616467410374	geckodriver	INFO	Listening on 127.0.0.1:3405
+1616467413401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAPPYE~1\\AppData\\Local\\Temp\\rust_mozprofileaDnnyl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616467419667	Marionette	INFO	Listening on port 3413
+1616467419721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467430237	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467445133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=cbd8272c32373d5520b11efc4a523161, line 142: uncaught exception: Invalid Object: LngLat(106.555508, NaN)
+JavaScript warning: http://192.168.255.184:14200/web/backstage/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467459786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.255.184:14200/web/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616467555020	Marionette	INFO	Stopped listening on port 3413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

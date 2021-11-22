@@ -1,0 +1,101 @@
+[ {
+  "uid" : "86e5a8429a1e55df",
+  "name" : "test_add[info1]",
+  "time" : {
+    "start" : 1616467436451,
+    "stop" : 1616467451338,
+    "duration" : 14887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee249f7983454217",
+  "name" : "test_update[info2]",
+  "time" : {
+    "start" : 1616467473665,
+    "stop" : 1616467476876,
+    "duration" : 3211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "899ba7d82854b95d",
+  "name" : "test_add[info2]",
+  "time" : {
+    "start" : 1616467451347,
+    "stop" : 1616467465990,
+    "duration" : 14643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57ac7c4db069cdc6",
+  "name" : "test_del[info0]",
+  "time" : {
+    "start" : 1616467465996,
+    "stop" : 1616467468001,
+    "duration" : 2005
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "56b107fa403a0f8f",
+  "name" : "test_update[info3]",
+  "time" : {
+    "start" : 1616467476886,
+    "stop" : 1616467480105,
+    "duration" : 3219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50b8523ded57846c",
+  "name" : "test_del[info1]",
+  "time" : {
+    "start" : 1616467468114,
+    "stop" : 1616467469360,
+    "duration" : 1246
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0ac9045f7d5f337",
+  "name" : "test_update[info0]",
+  "time" : {
+    "start" : 1616467469380,
+    "stop" : 1616467472608,
+    "duration" : 3228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b86269da1c764491",
+  "name" : "test_update[info4]",
+  "time" : {
+    "start" : 1616467480117,
+    "stop" : 1616467483329,
+    "duration" : 3212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e984b4c5f071f696",
+  "name" : "test_update[info1]",
+  "time" : {
+    "start" : 1616467472618,
+    "stop" : 1616467473563,
+    "duration" : 945
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f4dc1d03c61e265",
+  "name" : "test_add[info0]",
+  "time" : {
+    "start" : 1616467410073,
+    "stop" : 1616467436441,
+    "duration" : 26368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

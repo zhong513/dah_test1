@@ -1,0 +1,72 @@
+{
+  "uid" : "86e5a8429a1e55df",
+  "name" : "test_add[info1]",
+  "fullName" : "case.test_add_imax#test_add",
+  "historyId" : "af97390f69b00050ab1b8ee76da30b54",
+  "time" : {
+    "start" : 1616467436451,
+    "stop" : 1616467451338,
+    "duration" : 14887
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "598ac5480739dd72",
+      "name" : "stdout",
+      "source" : "598ac5480739dd72.txt",
+      "type" : "text/plain",
+      "size" : 125
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_imax"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-U1PCAPFC"
+  }, {
+    "name" : "thread",
+    "value" : "11736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_add_imax"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'case_name': 'add_case_002', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:太阳光的\\n影厅类型:陶顶顶顶\\nx座位选择:6\\ny座位选择:9\\n', 'asse_method': 'text', 'expect': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86e5a8429a1e55df.json",
+  "parameterValues" : [ "{'case_name': 'add_case_002', 'describe': '新增放映厅', 'test_type': 'GUI', 'module': 'add_imax', 'class': 'Imax', 'method': 'imax_manage', 'step': '影厅名:太阳光的\\n影厅类型:陶顶顶顶\\nx座位选择:6\\ny座位选择:9\\n', 'asse_method': 'text', 'expect': ''}" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "b86269da1c764491",
+  "name" : "test_update[info4]",
+  "fullName" : "case.test_update#test_update",
+  "historyId" : "957ed017860497b744757c9481fa274a",
+  "time" : {
+    "start" : 1616467480117,
+    "stop" : 1616467483329,
+    "duration" : 3212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_update"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-U1PCAPFC"
+  }, {
+    "name" : "thread",
+    "value" : "11736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_update"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'case_name': 'update_case_005', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=0.1', 'asse_method': 'text', 'expect': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b86269da1c764491.json",
+  "parameterValues" : [ "{'case_name': 'update_case_005', 'describe': '修改套餐金额和年限', 'test_type': 'GUI', 'module': 'update_setmeal', 'class': 'up_meal', 'method': 'up', 'step': 'numb=0.1', 'asse_method': 'text', 'expect': ''}" ]
+}
